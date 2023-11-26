@@ -4,7 +4,7 @@ import peer
 from message import UdpTrackerConnection, UdpTrackerAnnounce, UdpTrackerAnnounceOutput
 from peers_manager import PeersManager
 
-__author__ = 'alexisgallepe'
+__author__ = 'ujjwal'
 
 import requests
 import logging
